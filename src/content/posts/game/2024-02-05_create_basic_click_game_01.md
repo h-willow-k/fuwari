@@ -4,8 +4,8 @@ published: 2024-02-05
 updated: 2024-02-27
 description: ''
 image: './how-to-create-the-game.png'
-tags: [Games]
-category: 'Games'
+tags: [Godot]
+category: 'ゲーム開発(GamesDevelopment)'
 draft: false 
 lang: 'jp'
 ---

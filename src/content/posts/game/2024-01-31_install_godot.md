@@ -3,8 +3,8 @@ title: Godot Engineをインストールしよう
 published: 2024-01-31
 description: 'まずはインストール！'
 image: './how-to-create-the-game.png'
-tags: [Games]
-category: 'Games'
+tags: [Godot]
+category: 'ゲーム開発(GamesDevelopment)'
 draft: false 
 lang: 'jp'
 ---

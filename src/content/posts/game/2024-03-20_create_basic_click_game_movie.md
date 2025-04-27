@@ -3,8 +3,8 @@ title: 基本的なクリックゲームを作ろう(動画)
 published: 2024-03-20
 description: ''
 image: './how-to-create-the-game.png'
-tags: [Games, Video]
-category: 'Games'
+tags: [Godot, Video]
+category: 'ゲーム開発(GamesDevelopment)'
 draft: false 
 lang: 'jp'
 ---

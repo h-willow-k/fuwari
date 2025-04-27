@@ -4,8 +4,8 @@ published: 2024-01-21
 updated: 2024-01-31
 description: 'このサイトを始めた目的を語ります'
 image: './message.png'
-tags: [Games]
-category: 'Games'
+tags: [メッセージ]
+category: 'メッセージ(Messages)'
 draft: false 
 lang: 'jp'
 ---
