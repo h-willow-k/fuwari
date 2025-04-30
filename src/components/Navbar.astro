@@ -45,7 +45,7 @@ let links: NavBarLink[] = navBarConfig.links.map(
         <div class="flex">
             <!--<SearchPanel client:load>-->
                 <script async src={`https://cse.google.com/cse.js?cx=${import.meta.env.PUBLIC_GOOGLE_CX}`}></script>
-                <div class="gcse-search"></div>
+                <div class="gcse-searchbox-only"></div>
            <!-- <Search client:only="svelte"></Search> -->
             {!siteConfig.themeColor.fixed && (
                     <button aria-label="Display Settings" class="btn-plain scale-animation rounded-lg h-11 w-11 active:scale-90" id="display-settings-switch">
