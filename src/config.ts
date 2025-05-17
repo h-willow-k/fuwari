@@ -54,6 +54,11 @@ export const profileConfig: ProfileConfig = {
 			// `pnpm add @iconify-json/<icon-set-name>`
 			url: "https://x.com/ketotenGames",
 		},
+		{
+			name: "Youtube",
+			icon: "fa6-brands:youtube", // Visit https://icones.js.org/ for icon codes
+			url: "https://youtube.com/@ketoten",
+		},
 	],
 };
 
